@@ -1,0 +1,54 @@
+[
+    {
+        "name": "name",
+        "label": "Name",
+        "required": true,
+        "data_type": "text",
+        "html_element": "textbox",
+        "auto_complete":"off",
+        "placehoder":"Type Your Name"
+    },
+    {
+        "name": "email",
+        "label": "E-mail",
+        "required": true,
+        "data_type": "String",
+        "html_element": "email",
+        "auto_complete":"off",
+        "placehoder":"Type Your E-mail"
+    },
+    {
+        "name": "phone",
+        "label": "Phone Number",
+        "required": true,
+        "data_type": "tel",
+        "html_element": "number",
+        "auto_complete":"off",
+        "placehoder":"XXX - XXX - XXXX"
+    },
+    {
+        "name": "age",
+        "label": "Age",
+        "required": false,
+        "data_type": "number",
+        "html_element": "number",
+        "auto_complete":"off",
+        "placehoder":"Mention your Age"
+    },
+    {
+            "name": "city",
+            "label": "City",
+            "required": false,
+            "data_type": "text",
+            "html_element": "textbox",
+            "auto_complete":"off",
+            "placehoder":"Which city are you from?"
+    },
+    {
+        "name": "photo",
+        "label": "Upload File",
+        "required": true,
+        "data_type": "Image",
+        "html_element": "file"
+    }
+]
