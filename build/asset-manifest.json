@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cefc2e4c.css",
+    "main.js": "/static/js/main.1eac1084.js",
+    "static/js/787.6e9b19e3.chunk.js": "/static/js/787.6e9b19e3.chunk.js",
+    "static/media/background2.jpg": "/static/media/background2.b3ae8d541fc8bf08d8ef.jpg",
+    "static/media/grootan.jpg": "/static/media/grootan.ba42b86aed1a71bc8692.jpg",
+    "index.html": "/index.html",
+    "main.cefc2e4c.css.map": "/static/css/main.cefc2e4c.css.map",
+    "main.1eac1084.js.map": "/static/js/main.1eac1084.js.map",
+    "787.6e9b19e3.chunk.js.map": "/static/js/787.6e9b19e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cefc2e4c.css",
+    "static/js/main.1eac1084.js"
+  ]
+}
